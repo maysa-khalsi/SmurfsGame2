@@ -1,0 +1,17 @@
+C:\Users\khals\Downloads\SmurfsGame_Fixed\SmurfsGame\SmurfsGame\SmurfsDAL\bin\Debug\net8.0-windows\Smurfs.SmurfsDAL.deps.json
+C:\Users\khals\Downloads\SmurfsGame_Fixed\SmurfsGame\SmurfsGame\SmurfsDAL\bin\Debug\net8.0-windows\Smurfs.SmurfsDAL.runtimeconfig.json
+C:\Users\khals\Downloads\SmurfsGame_Fixed\SmurfsGame\SmurfsGame\SmurfsDAL\bin\Debug\net8.0-windows\Smurfs.SmurfsDAL.dll
+C:\Users\khals\Downloads\SmurfsGame_Fixed\SmurfsGame\SmurfsGame\SmurfsDAL\bin\Debug\net8.0-windows\Smurfs.SmurfsDAL.pdb
+C:\Users\khals\Downloads\SmurfsGame_Fixed\SmurfsGame\SmurfsGame\SmurfsDAL\bin\Debug\net8.0-windows\Smurfs.SmurfsBL.dll
+C:\Users\khals\Downloads\SmurfsGame_Fixed\SmurfsGame\SmurfsGame\SmurfsDAL\bin\Debug\net8.0-windows\Smurfs.SmurfsBL.pdb
+C:\Users\khals\Downloads\SmurfsGame_Fixed\SmurfsGame\SmurfsGame\SmurfsDAL\obj\Debug\net8.0-windows\SmurfsDAL.csproj.AssemblyReference.cache
+C:\Users\khals\Downloads\SmurfsGame_Fixed\SmurfsGame\SmurfsGame\SmurfsDAL\obj\Debug\net8.0-windows\SmurfsDAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\khals\Downloads\SmurfsGame_Fixed\SmurfsGame\SmurfsGame\SmurfsDAL\obj\Debug\net8.0-windows\SmurfsDAL.AssemblyInfoInputs.cache
+C:\Users\khals\Downloads\SmurfsGame_Fixed\SmurfsGame\SmurfsGame\SmurfsDAL\obj\Debug\net8.0-windows\SmurfsDAL.AssemblyInfo.cs
+C:\Users\khals\Downloads\SmurfsGame_Fixed\SmurfsGame\SmurfsGame\SmurfsDAL\obj\Debug\net8.0-windows\SmurfsDAL.csproj.CoreCompileInputs.cache
+C:\Users\khals\Downloads\SmurfsGame_Fixed\SmurfsGame\SmurfsGame\SmurfsDAL\obj\Debug\net8.0-windows\SmurfsDAL.csproj.Up2Date
+C:\Users\khals\Downloads\SmurfsGame_Fixed\SmurfsGame\SmurfsGame\SmurfsDAL\obj\Debug\net8.0-windows\Smurfs.SmurfsDAL.dll
+C:\Users\khals\Downloads\SmurfsGame_Fixed\SmurfsGame\SmurfsGame\SmurfsDAL\obj\Debug\net8.0-windows\refint\Smurfs.SmurfsDAL.dll
+C:\Users\khals\Downloads\SmurfsGame_Fixed\SmurfsGame\SmurfsGame\SmurfsDAL\obj\Debug\net8.0-windows\Smurfs.SmurfsDAL.pdb
+C:\Users\khals\Downloads\SmurfsGame_Fixed\SmurfsGame\SmurfsGame\SmurfsDAL\obj\Debug\net8.0-windows\SmurfsDAL.genruntimeconfig.cache
+C:\Users\khals\Downloads\SmurfsGame_Fixed\SmurfsGame\SmurfsGame\SmurfsDAL\obj\Debug\net8.0-windows\ref\Smurfs.SmurfsDAL.dll

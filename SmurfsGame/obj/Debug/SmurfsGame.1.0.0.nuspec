@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>SmurfsGame</id>
+    <version>1.0.0</version>
+    <authors>SmurfsGame</authors>
+    <description>Package Description</description>
+    <repository type="git" />
+    <dependencies>
+      <group targetFramework="net8.0-windows7.0">
+        <dependency id="Smurfs.SmurfsBL" version="1.0.0" exclude="Build,Analyzers" />
+        <dependency id="Smurfs.SmurfsDAL" version="1.0.0" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.EntityFrameworkCore" version="8.0.0" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.EntityFrameworkCore.SqlServer" version="8.0.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+    <frameworkReferences>
+      <group targetFramework="net8.0-windows7.0">
+        <frameworkReference name="Microsoft.WindowsDesktop.App.WindowsForms" />
+      </group>
+    </frameworkReferences>
+    <contentFiles>
+      <files include="any/net8.0-windows7.0/Resources/berry.png" buildAction="Content" />
+      <files include="any/net8.0-windows7.0/Resources/blueportion.png" buildAction="Content" />
+      <files include="any/net8.0-windows7.0/Resources/bzzfly.png" buildAction="Content" />
+      <files include="any/net8.0-windows7.0/Resources/GirlSmurfDown.png" buildAction="Content" />
+      <files include="any/net8.0-windows7.0/Resources/GirlSmurfLeft.png" buildAction="Content" />
+      <files include="any/net8.0-windows7.0/Resources/GirlSmurfRight.png" buildAction="Content" />
+      <files include="any/net8.0-windows7.0/Resources/GirlSmurfUp.png" buildAction="Content" />
+      <files include="any/net8.0-windows7.0/Resources/GrandSmurfDown.png" buildAction="Content" />
+      <files include="any/net8.0-windows7.0/Resources/GrandSmurfLeft.png" buildAction="Content" />
+      <files include="any/net8.0-windows7.0/Resources/GrandSmurfRight.png" buildAction="Content" />
+      <files include="any/net8.0-windows7.0/Resources/GrandSmurfUp.png" buildAction="Content" />
+      <files include="any/net8.0-windows7.0/Resources/redportion.png" buildAction="Content" />
+      <files include="any/net8.0-windows7.0/Resources/smurf_down.gif.gif" buildAction="Content" />
+      <files include="any/net8.0-windows7.0/Resources/smurf_left.gif.gif" buildAction="Content" />
+      <files include="any/net8.0-windows7.0/Resources/smurf_right.gif.gif" buildAction="Content" />
+      <files include="any/net8.0-windows7.0/Resources/smurf_up.gif.gif" buildAction="Content" />
+      <files include="any/net8.0-windows7.0/Resources/spider.png" buildAction="Content" />
+    </contentFiles>
+  </metadata>
+  <files>
+    <file src="C:\Users\khals\Downloads\SmurfsGame_Fixed\SmurfsGame\SmurfsGame\SmurfsGame\bin\Debug\net8.0-windows\SmurfsGame.runtimeconfig.json" target="lib\net8.0-windows7.0\SmurfsGame.runtimeconfig.json" />
+    <file src="C:\Users\khals\Downloads\SmurfsGame_Fixed\SmurfsGame\SmurfsGame\SmurfsGame\bin\Debug\net8.0-windows\SmurfsGame.dll" target="lib\net8.0-windows7.0\SmurfsGame.dll" />
+    <file src="C:\Users\khals\Downloads\SmurfsGame_Fixed\SmurfsGame\SmurfsGame\SmurfsGame\Resources\berry.png" target="content\Resources\berry.png" />
+    <file src="C:\Users\khals\Downloads\SmurfsGame_Fixed\SmurfsGame\SmurfsGame\SmurfsGame\Resources\berry.png" target="contentFiles\any\net8.0-windows7.0\Resources\berry.png" />
+    <file src="C:\Users\khals\Downloads\SmurfsGame_Fixed\SmurfsGame\SmurfsGame\SmurfsGame\Resources\blueportion.png" target="content\Resources\blueportion.png" />
+    <file src="C:\Users\khals\Downloads\SmurfsGame_Fixed\SmurfsGame\SmurfsGame\SmurfsGame\Resources\blueportion.png" target="contentFiles\any\net8.0-windows7.0\Resources\blueportion.png" />
+    <file src="C:\Users\khals\Downloads\SmurfsGame_Fixed\SmurfsGame\SmurfsGame\SmurfsGame\Resources\bzzfly.png" target="content\Resources\bzzfly.png" />
+    <file src="C:\Users\khals\Downloads\SmurfsGame_Fixed\SmurfsGame\SmurfsGame\SmurfsGame\Resources\bzzfly.png" target="contentFiles\any\net8.0-windows7.0\Resources\bzzfly.png" />
+    <file src="C:\Users\khals\Downloads\SmurfsGame_Fixed\SmurfsGame\SmurfsGame\SmurfsGame\Resources\GirlSmurfDown.png" target="content\Resources\GirlSmurfDown.png" />
+    <file src="C:\Users\khals\Downloads\SmurfsGame_Fixed\SmurfsGame\SmurfsGame\SmurfsGame\Resources\GirlSmurfDown.png" target="contentFiles\any\net8.0-windows7.0\Resources\GirlSmurfDown.png" />
+    <file src="C:\Users\khals\Downloads\SmurfsGame_Fixed\SmurfsGame\SmurfsGame\SmurfsGame\Resources\GirlSmurfLeft.png" target="content\Resources\GirlSmurfLeft.png" />
+    <file src="C:\Users\khals\Downloads\SmurfsGame_Fixed\SmurfsGame\SmurfsGame\SmurfsGame\Resources\GirlSmurfLeft.png" target="contentFiles\any\net8.0-windows7.0\Resources\GirlSmurfLeft.png" />
+    <file src="C:\Users\khals\Downloads\SmurfsGame_Fixed\SmurfsGame\SmurfsGame\SmurfsGame\Resources\GirlSmurfRight.png" target="content\Resources\GirlSmurfRight.png" />
+    <file src="C:\Users\khals\Downloads\SmurfsGame_Fixed\SmurfsGame\SmurfsGame\SmurfsGame\Resources\GirlSmurfRight.png" target="contentFiles\any\net8.0-windows7.0\Resources\GirlSmurfRight.png" />
+    <file src="C:\Users\khals\Downloads\SmurfsGame_Fixed\SmurfsGame\SmurfsGame\SmurfsGame\Resources\GirlSmurfUp.png" target="content\Resources\GirlSmurfUp.png" />
+    <file src="C:\Users\khals\Downloads\SmurfsGame_Fixed\SmurfsGame\SmurfsGame\SmurfsGame\Resources\GirlSmurfUp.png" target="contentFiles\any\net8.0-windows7.0\Resources\GirlSmurfUp.png" />
+    <file src="C:\Users\khals\Downloads\SmurfsGame_Fixed\SmurfsGame\SmurfsGame\SmurfsGame\Resources\GrandSmurfDown.png" target="content\Resources\GrandSmurfDown.png" />
+    <file src="C:\Users\khals\Downloads\SmurfsGame_Fixed\SmurfsGame\SmurfsGame\SmurfsGame\Resources\GrandSmurfDown.png" target="contentFiles\any\net8.0-windows7.0\Resources\GrandSmurfDown.png" />
+    <file src="C:\Users\khals\Downloads\SmurfsGame_Fixed\SmurfsGame\SmurfsGame\SmurfsGame\Resources\GrandSmurfLeft.png" target="content\Resources\GrandSmurfLeft.png" />
+    <file src="C:\Users\khals\Downloads\SmurfsGame_Fixed\SmurfsGame\SmurfsGame\SmurfsGame\Resources\GrandSmurfLeft.png" target="contentFiles\any\net8.0-windows7.0\Resources\GrandSmurfLeft.png" />
+    <file src="C:\Users\khals\Downloads\SmurfsGame_Fixed\SmurfsGame\SmurfsGame\SmurfsGame\Resources\GrandSmurfRight.png" target="content\Resources\GrandSmurfRight.png" />
+    <file src="C:\Users\khals\Downloads\SmurfsGame_Fixed\SmurfsGame\SmurfsGame\SmurfsGame\Resources\GrandSmurfRight.png" target="contentFiles\any\net8.0-windows7.0\Resources\GrandSmurfRight.png" />
+    <file src="C:\Users\khals\Downloads\SmurfsGame_Fixed\SmurfsGame\SmurfsGame\SmurfsGame\Resources\GrandSmurfUp.png" target="content\Resources\GrandSmurfUp.png" />
+    <file src="C:\Users\khals\Downloads\SmurfsGame_Fixed\SmurfsGame\SmurfsGame\SmurfsGame\Resources\GrandSmurfUp.png" target="contentFiles\any\net8.0-windows7.0\Resources\GrandSmurfUp.png" />
+    <file src="C:\Users\khals\Downloads\SmurfsGame_Fixed\SmurfsGame\SmurfsGame\SmurfsGame\Resources\redportion.png" target="content\Resources\redportion.png" />
+    <file src="C:\Users\khals\Downloads\SmurfsGame_Fixed\SmurfsGame\SmurfsGame\SmurfsGame\Resources\redportion.png" target="contentFiles\any\net8.0-windows7.0\Resources\redportion.png" />
+    <file src="C:\Users\khals\Downloads\SmurfsGame_Fixed\SmurfsGame\SmurfsGame\SmurfsGame\Resources\smurf_down.gif.gif" target="content\Resources\smurf_down.gif.gif" />
+    <file src="C:\Users\khals\Downloads\SmurfsGame_Fixed\SmurfsGame\SmurfsGame\SmurfsGame\Resources\smurf_down.gif.gif" target="contentFiles\any\net8.0-windows7.0\Resources\smurf_down.gif.gif" />
+    <file src="C:\Users\khals\Downloads\SmurfsGame_Fixed\SmurfsGame\SmurfsGame\SmurfsGame\Resources\smurf_left.gif.gif" target="content\Resources\smurf_left.gif.gif" />
+    <file src="C:\Users\khals\Downloads\SmurfsGame_Fixed\SmurfsGame\SmurfsGame\SmurfsGame\Resources\smurf_left.gif.gif" target="contentFiles\any\net8.0-windows7.0\Resources\smurf_left.gif.gif" />
+    <file src="C:\Users\khals\Downloads\SmurfsGame_Fixed\SmurfsGame\SmurfsGame\SmurfsGame\Resources\smurf_right.gif.gif" target="content\Resources\smurf_right.gif.gif" />
+    <file src="C:\Users\khals\Downloads\SmurfsGame_Fixed\SmurfsGame\SmurfsGame\SmurfsGame\Resources\smurf_right.gif.gif" target="contentFiles\any\net8.0-windows7.0\Resources\smurf_right.gif.gif" />
+    <file src="C:\Users\khals\Downloads\SmurfsGame_Fixed\SmurfsGame\SmurfsGame\SmurfsGame\Resources\smurf_up.gif.gif" target="content\Resources\smurf_up.gif.gif" />
+    <file src="C:\Users\khals\Downloads\SmurfsGame_Fixed\SmurfsGame\SmurfsGame\SmurfsGame\Resources\smurf_up.gif.gif" target="contentFiles\any\net8.0-windows7.0\Resources\smurf_up.gif.gif" />
+    <file src="C:\Users\khals\Downloads\SmurfsGame_Fixed\SmurfsGame\SmurfsGame\SmurfsGame\Resources\spider.png" target="content\Resources\spider.png" />
+    <file src="C:\Users\khals\Downloads\SmurfsGame_Fixed\SmurfsGame\SmurfsGame\SmurfsGame\Resources\spider.png" target="contentFiles\any\net8.0-windows7.0\Resources\spider.png" />
+  </files>
+</package>

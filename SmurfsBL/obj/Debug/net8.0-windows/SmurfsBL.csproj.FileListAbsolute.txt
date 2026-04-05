@@ -1,0 +1,14 @@
+C:\Users\khals\Downloads\SmurfsGame_Fixed\SmurfsGame\SmurfsGame\SmurfsBL\bin\Debug\net8.0-windows\Smurfs.SmurfsBL.deps.json
+C:\Users\khals\Downloads\SmurfsGame_Fixed\SmurfsGame\SmurfsGame\SmurfsBL\bin\Debug\net8.0-windows\Smurfs.SmurfsBL.runtimeconfig.json
+C:\Users\khals\Downloads\SmurfsGame_Fixed\SmurfsGame\SmurfsGame\SmurfsBL\bin\Debug\net8.0-windows\Smurfs.SmurfsBL.dll
+C:\Users\khals\Downloads\SmurfsGame_Fixed\SmurfsGame\SmurfsGame\SmurfsBL\bin\Debug\net8.0-windows\Smurfs.SmurfsBL.pdb
+C:\Users\khals\Downloads\SmurfsGame_Fixed\SmurfsGame\SmurfsGame\SmurfsBL\obj\Debug\net8.0-windows\SmurfsBL.csproj.AssemblyReference.cache
+C:\Users\khals\Downloads\SmurfsGame_Fixed\SmurfsGame\SmurfsGame\SmurfsBL\obj\Debug\net8.0-windows\SmurfsBL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\khals\Downloads\SmurfsGame_Fixed\SmurfsGame\SmurfsGame\SmurfsBL\obj\Debug\net8.0-windows\SmurfsBL.AssemblyInfoInputs.cache
+C:\Users\khals\Downloads\SmurfsGame_Fixed\SmurfsGame\SmurfsGame\SmurfsBL\obj\Debug\net8.0-windows\SmurfsBL.AssemblyInfo.cs
+C:\Users\khals\Downloads\SmurfsGame_Fixed\SmurfsGame\SmurfsGame\SmurfsBL\obj\Debug\net8.0-windows\SmurfsBL.csproj.CoreCompileInputs.cache
+C:\Users\khals\Downloads\SmurfsGame_Fixed\SmurfsGame\SmurfsGame\SmurfsBL\obj\Debug\net8.0-windows\Smurfs.SmurfsBL.dll
+C:\Users\khals\Downloads\SmurfsGame_Fixed\SmurfsGame\SmurfsGame\SmurfsBL\obj\Debug\net8.0-windows\refint\Smurfs.SmurfsBL.dll
+C:\Users\khals\Downloads\SmurfsGame_Fixed\SmurfsGame\SmurfsGame\SmurfsBL\obj\Debug\net8.0-windows\Smurfs.SmurfsBL.pdb
+C:\Users\khals\Downloads\SmurfsGame_Fixed\SmurfsGame\SmurfsGame\SmurfsBL\obj\Debug\net8.0-windows\SmurfsBL.genruntimeconfig.cache
+C:\Users\khals\Downloads\SmurfsGame_Fixed\SmurfsGame\SmurfsGame\SmurfsBL\obj\Debug\net8.0-windows\ref\Smurfs.SmurfsBL.dll
