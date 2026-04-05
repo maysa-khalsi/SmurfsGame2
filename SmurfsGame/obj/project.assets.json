@@ -4058,23 +4058,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\khals\\.nuget\\packages\\": {},
+    "C:\\Users\\mariem\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\khals\\Downloads\\SmurfsGame_Fixed\\SmurfsGame\\SmurfsGame\\SmurfsGame\\SmurfsGame.csproj",
+      "projectUniqueName": "C:\\Users\\mariem\\source\\repos\\SmurfsGame2\\SmurfsGame\\SmurfsGame.csproj",
       "projectName": "SmurfsGame",
-      "projectPath": "C:\\Users\\khals\\Downloads\\SmurfsGame_Fixed\\SmurfsGame\\SmurfsGame\\SmurfsGame\\SmurfsGame.csproj",
-      "packagesPath": "C:\\Users\\khals\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\khals\\Downloads\\SmurfsGame_Fixed\\SmurfsGame\\SmurfsGame\\SmurfsGame\\obj\\",
+      "projectPath": "C:\\Users\\mariem\\source\\repos\\SmurfsGame2\\SmurfsGame\\SmurfsGame.csproj",
+      "packagesPath": "C:\\Users\\mariem\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\mariem\\source\\repos\\SmurfsGame2\\SmurfsGame\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\khals\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\mariem\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -4089,11 +4089,11 @@
         "net8.0-windows7.0": {
           "targetAlias": "net8.0-windows",
           "projectReferences": {
-            "C:\\Users\\khals\\Downloads\\SmurfsGame_Fixed\\SmurfsGame\\SmurfsGame\\SmurfsBL\\SmurfsBL.csproj": {
-              "projectPath": "C:\\Users\\khals\\Downloads\\SmurfsGame_Fixed\\SmurfsGame\\SmurfsGame\\SmurfsBL\\SmurfsBL.csproj"
+            "C:\\Users\\mariem\\source\\repos\\SmurfsGame2\\SmurfsBL\\SmurfsBL.csproj": {
+              "projectPath": "C:\\Users\\mariem\\source\\repos\\SmurfsGame2\\SmurfsBL\\SmurfsBL.csproj"
             },
-            "C:\\Users\\khals\\Downloads\\SmurfsGame_Fixed\\SmurfsGame\\SmurfsGame\\SmurfsDAL\\SmurfsDAL.csproj": {
-              "projectPath": "C:\\Users\\khals\\Downloads\\SmurfsGame_Fixed\\SmurfsGame\\SmurfsGame\\SmurfsDAL\\SmurfsDAL.csproj"
+            "C:\\Users\\mariem\\source\\repos\\SmurfsGame2\\SmurfsDAL\\SmurfsDAL.csproj": {
+              "projectPath": "C:\\Users\\mariem\\source\\repos\\SmurfsGame2\\SmurfsDAL\\SmurfsDAL.csproj"
             }
           }
         }
